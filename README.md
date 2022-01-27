@@ -1,4 +1,4 @@
-# wordle-spoiler
+# wordle-tr-spoiler
 
 <details>
   <summary>Bugünün cevabı için tıklayınız.</summary>
