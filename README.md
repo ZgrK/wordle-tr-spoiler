@@ -3,19 +3,19 @@
 <details>
   <summary>Bugünün cevabı için tıklayınız.</summary>
   <br>
-    <b> beste </b>
+    <b> balat </b>
 </details>
 
 <details>
   <summary>Yarının cevabı için tıklayınız</summary>
   <br>
-   <b> balat </b>
+   <b> rögar </b>
 </details>
 
 <details>
   <summary>Dünün cevabı için tıklayınız </summary>
   <br>
-  <b> kırma </b>
+  <b> beste </b>
 </details>
 
 https://f.github.io/wordle-tr/ için geliştirilmiş bir spoiler sistemidir kendini yeniler otomatik olarak.
