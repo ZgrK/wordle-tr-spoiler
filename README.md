@@ -3,19 +3,19 @@
 <details>
   <summary>Bugünün cevabı için tıklayınız.</summary>
   <br>
-    <b> hüzme </b>
+    <b> kibar </b>
 </details>
 
 <details>
   <summary>Yarının cevabı için tıklayınız</summary>
   <br>
-   <b> kibar </b>
+   <b> infaz </b>
 </details>
 
 <details>
   <summary>Dünün cevabı için tıklayınız </summary>
   <br>
-  <b> cevaz </b>
+  <b> hüzme </b>
 </details>
 
 https://f.github.io/wordle-tr/ için geliştirilmiş bir spoiler sistemidir kendini yeniler otomatik olarak.
