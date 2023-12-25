@@ -3,19 +3,19 @@
 <details>
   <summary>Bugünün cevabı için tıklayınız.</summary>
   <br>
-    <b> aktör </b>
+    <b> çöpçü </b>
 </details>
 
 <details>
   <summary>Yarının cevabı için tıklayınız</summary>
   <br>
-   <b> çöpçü </b>
+   <b> oosit </b>
 </details>
 
 <details>
   <summary>Dünün cevabı için tıklayınız </summary>
   <br>
-  <b> milat </b>
+  <b> aktör </b>
 </details>
 
 https://f.github.io/wordle-tr/ için geliştirilmiş bir spoiler sistemidir kendini yeniler otomatik olarak.
