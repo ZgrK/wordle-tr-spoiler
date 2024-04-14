@@ -3,19 +3,19 @@
 <details>
   <summary>Bugünün cevabı için tıklayınız.</summary>
   <br>
-    <b> takla </b>
+    <b> kuyum </b>
 </details>
 
 <details>
   <summary>Yarının cevabı için tıklayınız</summary>
   <br>
-   <b> kuyum </b>
+   <b> aslık </b>
 </details>
 
 <details>
   <summary>Dünün cevabı için tıklayınız </summary>
   <br>
-  <b> coşuş </b>
+  <b> takla </b>
 </details>
 
 https://f.github.io/wordle-tr/ için geliştirilmiş bir spoiler sistemidir kendini yeniler otomatik olarak.
