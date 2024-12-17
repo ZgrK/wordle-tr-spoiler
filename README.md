@@ -3,19 +3,19 @@
 <details>
   <summary>Bugünün cevabı için tıklayınız.</summary>
   <br>
-    <b> bitik </b>
+    <b> yağsı </b>
 </details>
 
 <details>
   <summary>Yarının cevabı için tıklayınız</summary>
   <br>
-   <b> yağsı </b>
+   <b> biçem </b>
 </details>
 
 <details>
   <summary>Dünün cevabı için tıklayınız </summary>
   <br>
-  <b> efriz </b>
+  <b> bitik </b>
 </details>
 
 https://f.github.io/wordle-tr/ için geliştirilmiş bir spoiler sistemidir kendini yeniler otomatik olarak.
